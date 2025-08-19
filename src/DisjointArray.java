@@ -40,6 +40,7 @@ public class DisjointArray {
         System.out.println(Arrays.toString(brr));
         boolean flag= disjoint(arr,brr);
         System.out.println(flag);
+        System.out.println("Hello");
 
     }
 }
